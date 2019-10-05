@@ -1,0 +1,14 @@
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\AppClima.exe.config
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\AppClima.exe
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\AppClima.pdb
+C:\Users\Fernando\ML\App\AppClima\obj\Debug\AppClima.csprojAssemblyReference.cache
+C:\Users\Fernando\ML\App\AppClima\obj\Debug\AppClima.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\ML\App\AppClima\obj\Debug\AppClima.exe
+C:\Users\Fernando\ML\App\AppClima\obj\Debug\AppClima.pdb
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\ML\App\AppClima\obj\Debug\AppClima.csproj.CopyComplete
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\ML\App\AppClima\bin\Debug\EntityFramework.SqlServer.xml
