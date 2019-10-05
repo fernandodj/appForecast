@@ -1,0 +1,53 @@
+USE [Forecast]
+GO
+
+/****** Object:  Table [dbo].[Planets]    Script Date: 09/28/2019 20:56:24 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Planets](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[name] [varchar](50) NOT NULL,
+	[velocity] [int] NOT NULL,
+	[sunDistance] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+INSERT INTO [Forecast].[dbo].[Planets]
+           ([name],[velocity],[sunDistance])
+     VALUES
+           ('Ferengi', 1, 500)
+GO
+
+INSERT INTO [Forecast].[dbo].[Planets]
+           ([name],[velocity],[sunDistance])
+     VALUES
+           ('Betasoide', 3, 2000)
+GO
+
+INSERT INTO [Forecast].[dbo].[Planets]
+           ([name],[velocity],[sunDistance])
+     VALUES
+           ('Vulcano', -5, 1000)
+GO
+
+
+
+
+
+
